@@ -1,0 +1,27 @@
+1069
+~E 1 "./src/numarator.vhd" 5 num
+~A 1 "./src/numarator.vhd" 10 arhnum
+~E 1 "./src/DCD_7segm.vhd" 5 dcd_7segm
+~A 1 "./src/DCD_7segm.vhd" 10 arhdcd
+~E 1 "./src/Bistabil_D.vhd" 5 bist_d
+~A 1 "./src/Bistabil_D.vhd" 10 arhbistd
+~E 1 "./src/Afisor.vhd" 5 afisor
+~A 1 "./src/Afisor.vhd" 13 arhafisor
+~E 1 "./src/Cascadorie.vhd" 5 cascadorie
+~A 1 "./src/Cascadorie.vhd" 14 arhcascadare
+~E 1 "./src/Divizor_de_frecventa.vhd" 5 divizor_frecv
+~A 1 "./src/Divizor_de_frecventa.vhd" 10 arhdivizor
+~E 1 "./src/Debouncer.vhd" 5 debouncer
+~A 1 "./src/Debouncer.vhd" 25 arhdebouncer
+~E 1 "./src/Mux4_1.vhd" 5 mux41
+~A 1 "./src/Mux4_1.vhd" 11 arhmux41
+~E 1 "./src/Numarator_09.vhd" 5 numarator09
+~A 1 "./src/Numarator_09.vhd" 11 ahrnumarator09
+~E 1 "./src/Numarator_05.vhd" 5 numarator05
+~A 1 "./src/Numarator_05.vhd" 11 ahrnumarator05
+~E 1 "./src/UE.vhd" 5 timer
+~A 1 "./src/UE.vhd" 15 arhtimer
+~E 1 "./src/Debouncer.vhd" 15 si3
+~A 1 "./src/Debouncer.vhd" 20 arhsi3
+~E 1 "./src/UC_organigrama.vhd" 4 uc_organigrama
+~A 1 "./src/UC_organigrama.vhd" 19 arhuc

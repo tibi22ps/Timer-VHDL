@@ -1,0 +1,1 @@
+-w -s "C:\Users\Win10\Desktop\Proiect_timer\library.cfg"  -j "C:\Users\Win10\Desktop\Proiect_timer\Timer\projlib.cfg"  -d "C:\Users\Win10\Desktop\Proiect_timer\Timer\compile\"  -work Timer -dbg -e 100 "C:\Users\Win10\Desktop\Proiect_timer\Timer\src\UE.vhd" 

@@ -1,0 +1,22 @@
+$WAVE4TIMED
+$RESOLUTION 1000
+I 1 "e#9#std_logicc9 UX01ZWLH-"
+$IN 1 1 en
+I 2 "a#29#std_logic_vector(14 downto 0)1 ricd14 0 e#9#std_logicc9 UX01ZWLH-"
+$BUS OUT 65 2 15 Dout
+$SC 5-61/4
+$IN +5 1 reset
+$IN 1 0 en
+$IN 1 0 en
+$BUS OUT 70 2 15 Dout
+$SC 5-61/4
+$IN 1 0 en
+$BUS OUT 71 2 15 Dout
+$SC 5-61/4
+$IN 1 0 en
+$BUS OUT 72 2 15 Dout
+$SC 5-61/4
+$IN 1 0 en
+$BUS OUT 73 2 15 Dout
+$SC 5-61/4
+$ENDWAVE

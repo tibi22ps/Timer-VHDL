@@ -1,0 +1,62 @@
+[Project]
+Current Flow=Multivendor
+VCS=0
+version=1
+Current Config=compile
+
+[Configurations]
+compile=Timer
+
+[Library]
+Timer=.\Timer.lib
+
+[$LibMap$]
+Timer=.
+Active_lib=
+
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+SYNTH_TOOL=<none>
+IMPL_TOOL=<none>
+FAMILY=
+FLOWTOOLS=ONLY_IMPL
+
+[IMPLEMENTATION]
+UCF=
+
+[HierarchyViewer]
+SortInfo=u
+HierarchyInformation=timer|arhtimer|0       
+ShowHide=ShowTopLevel
+Selected=
+
+[Files]
+/Numarator_09.vhd=-1
+/Numarator_05.vhd=-1
+/Divizor_de_frecventa.vhd=-1
+/DCD_7segm.vhd=-1
+/Bistabil_D.vhd=-1
+/Debouncer.vhd=-1
+/UC_organigrama.vhd=-1
+/Cascadorie.vhd=-1
+/numarator.vhd=-1
+/Mux4_1.vhd=-1
+/Afisor.vhd=-1
+/UE.vhd=-1
+
+[Files.Data]
+.\src\Numarator_09.vhd=VHDL Source Code
+.\src\Numarator_05.vhd=VHDL Source Code
+.\src\Divizor_de_frecventa.vhd=VHDL Source Code
+.\src\DCD_7segm.vhd=VHDL Source Code
+.\src\Bistabil_D.vhd=VHDL Source Code
+.\src\Debouncer.vhd=VHDL Source Code
+.\src\UC_organigrama.vhd=VHDL Source Code
+.\src\Cascadorie.vhd=VHDL Source Code
+.\src\numarator.vhd=VHDL Source Code
+.\src\Mux4_1.vhd=VHDL Source Code
+.\src\Afisor.vhd=VHDL Source Code
+.\src\UE.vhd=VHDL Source Code
+

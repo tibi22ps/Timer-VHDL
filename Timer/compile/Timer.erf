@@ -1,0 +1,5 @@
+MESSAGE "File: C:\Users\Win10\Desktop\Proiect_timer\Timer\src\UE.vhd" 
+MESSAGE "Compile Entity "timer"" 
+MESSAGE "Entity `timer' has been skipped - no difference detected." 
+MESSAGE "Compile Architecture "arhtimer" of Entity "timer"" 
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [s]" 
